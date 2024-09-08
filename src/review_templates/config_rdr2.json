@@ -1,146 +1,139 @@
 {
-    "name": "Red Dead Redemption 2",
+    "name": "Movie Review",
     "categories": [
         {
-            "title": "Graphics",
+            "title": "Visuals",
             "type": "radio",
             "options": [
-                "You forget what reality is",
-                "Beautiful",
-                "Good",
+                "You forget it’s a movie",
+                "Stunning cinematography",
+                "Visually impressive",
                 "Decent",
-                "Bad",
-                "Don‘t look too long at it",
-                "MS-DOS"
+                "Below average",
+                "Barely watchable",
+                "Made in the 80s"
             ]
         },
         {
-            "title": "Gameplay",
+            "title": "Plot",
             "type": "radio",
             "options": [
-                "Very good",
-                "Good",
-                "It's just gameplay",
-                "Mehh",
-                "Watch paint dry instead",
-                "Just don't"
+                "Mind-blowing",
+                "Gripping",
+                "It's just a story",
+                "Predictable",
+                "Boring",
+                "What is even happening?"
             ]
         },
         {
-            "title": "Audio",
+            "title": "Soundtrack",
             "type": "radio",
             "options": [
-                "Eargasm",
-                "Very good",
+                "Masterpiece",
+                "Very fitting",
                 "Good",
-                "Not too bad",
-                "Bad",
-                "I'm now deaf"
+                "Forgettable",
+                "Annoying",
+                "Please mute it"
             ]
         },
         {
             "title": "Audience",
             "type": "check",
             "options": [
-                "Kids",
+                "Family-friendly",
                 "Teens",
                 "Adults",
-                "Grandma"
+                "Niche crowd"
             ]
         },
         {
-            "title": "PC Requirements",
+            "title": "Requirements",
             "type": "radio",
             "options": [
-                "Check if you can run paint",
-                "Potato",
-                "Decent",
-                "Fast",
-                "Rich boi",
-                "Ask NASA if they have a spare computer"
+                "Brain power not needed",
+                "Basic attention span",
+                "Stay awake",
+                "Keep up with the details",
+                "Requires philosophy degree"
             ]
         },
         {
-            "title": "Game Size",
+            "title": "Movie Length",
             "type": "radio",
             "options": [
-              "Floppy Disk",
-              "Old Fashioned",
-              "Workable",
-              "Big",
-              "Will eat 10% of your 1TB hard drive",
-              "You will want an entire hard drive to hold it",
-              "You will need to invest in a black hole to hold all the data"
-            ]
-          },          
-        {
-            "title": "Difficulty",
-            "type": "radio",
-            "options": [
-                "Just press 'W'",
-                "Easy",
-                "Easy to learn / Hard to master",
-                "Significant brain usage",
-                "Difficult",
-                "Dark Souls"
+                "20 minutes",
+                "Short film",
+                "Average feature",
+                "Long epic",
+                "Watch over two days"
             ]
         },
         {
-            "title": "Grind",
+            "title": "Complexity",
             "type": "radio",
             "options": [
-                "Nothing to grind",
-                "Only if u care about leaderboards/ranks",
-                "Isn't necessary to progress",
-                "Average grind level",
-                "Too much grind",
-                "You'll need a second life for grinding"
+                "Simple",
+                "Easy to follow",
+                "Somewhat intricate",
+                "Requires focus",
+                "Will confuse you",
+                "Inception level"
             ]
         },
         {
-            "title": "Story",
+            "title": "Rewatchability",
             "type": "radio",
             "options": [
-                "No Story",
-                "Some lore",
-                "Average",
-                "Good",
-                "Lovely",
-                "It'll replace your life"
+                "Not worth it",
+                "Once is enough",
+                "Maybe one more time",
+                "Many times over",
+                "You’ll be dissecting it for years"
             ]
         },
         {
-            "title": "Game Time",
+            "title": "Emotional Impact",
             "type": "radio",
             "options": [
-                "Long enough for a cup of coffee",
-                "Short",
-                "Average",
-                "Long",
-                "To infinity and beyond"
+                "Emotionally numb",
+                "Some feelings",
+                "Thought-provoking",
+                "Hits you at times",
+                "Emotional rollercoaster"
+            ]
+        },
+        {
+            "title": "Time Investment",
+            "type": "radio",
+            "options": [
+                "Watch while making popcorn",
+                "Good for a single sitting",
+                "Requires a commitment",
+                "Marathon-worthy"
             ]
         },
         {
             "title": "Price",
             "type": "radio",
             "options": [
-                "It's free!",
-                "Worth the price",
-                "If it's on sale",
-                "If u have some spare money left",
-                "Not recommended",
-                "You could also just burn your money"
+                "Free on streaming",
+                "Worth a rental",
+                "Wait for discount",
+                "Only for movie buffs",
+                "You’ll regret paying full price"
             ]
         },
         {
-            "title": "Bugs",
+            "title": "Flaws",
             "type": "radio",
             "options": [
-                "Never heard of",
-                "Minor bugs",
-                "Can get annoying",
-                "ARK: Survival Evolved",
-                "The game itself is a big terrarium for bugs"
+                "Flawless",
+                "Minor issues",
+                "Noticeable but tolerable",
+                "Constant distractions",
+                "Unwatchable"
             ]
         },
         {
